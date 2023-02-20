@@ -1,0 +1,52 @@
+{
+  "bot-account": {
+    "username": "geldimistedosutm",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "play.rubyskymc.com",
+    "port": 25565 ,
+    "version": "1.16.5"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": -233,
+    "y": 188,
+    "z": 795
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "geldim123" 
+    }, 
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "test 1",
+        "test 2",
+        "test 3",
+        "test 4",
+        "test 5",
+        "test 6",
+        "Subscribe to YassineHzz"
+      ]
+    },
+
+    "chat-log": false,
+    "auto-reconnect": false,
+    "auto-reconnect-delay": 1
+  }
+}
